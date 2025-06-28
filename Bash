@@ -1,0 +1,4 @@
+git init
+git add .
+git commit -m "initial commit"
+gh repo create tikfinity-levelup-api --public --source=. --push
